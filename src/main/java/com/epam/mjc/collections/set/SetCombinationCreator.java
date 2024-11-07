@@ -5,5 +5,6 @@ import java.util.Set;
 
 public class SetCombinationCreator {
     public Set<String> createSetCombination(Set<String> firstSet, Set<String> secondSet, Set<String> thirdSet) {
+    return new HashSet<>();
     }
 }
